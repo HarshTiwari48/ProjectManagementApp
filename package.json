@@ -1,0 +1,23 @@
+{
+  "name": "pcb",
+  "version": "1.0.0",
+  "description": "a backend project for learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "API",
+    "creation",
+    "Express",
+    "NODE"
+  ],
+  "author": "Harsh Tiwari",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
